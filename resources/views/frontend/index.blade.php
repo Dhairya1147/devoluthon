@@ -591,12 +591,12 @@
                                                     </div>
                                                     <div class="speak-image-btm">
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/4.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/4.jpg')}}"alt="Images"></a>
                                                                 <span class="tooltiptext">Dakota Fanning</span>
                                                             </div>                                                   
                                                         </div>                                                         
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/7.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/7.jpg')}}"alt="Images"></a>
                                                                 <span class="tooltiptext">Angelina Jolie</span>
                                                             </div>                                                   
                                                         </div>                                                        
@@ -616,7 +616,7 @@
                                                     <div class="speak-image-btm">             
                                                         <div class="speak-image">
                                                             <a href="#">
-                                                                <img src="assets/images/tab/5.jpg" alt="Images">
+                                                                <img src="{{url('frontend/images/tab/5.jpg')}}" alt="Images">
                                                             </a>                                                         
                                                         </div>                                               
                                                     </div>
@@ -634,12 +634,12 @@
                                                    </div>
                                                     <div class="speak-image-btm">
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/6.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/6.jpg')}}"alt="Images"></a>
                                                                 <span class="tooltiptext">Mila Kunis</span>
                                                             </div>                                                   
                                                         </div>                                                         
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/1.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/1.jpg')}}"alt="Images"></a>
                                                                 <span class="tooltiptext">Allu Arjun</span>
                                                             </div>                                                   
                                                         </div>                                                         
@@ -662,12 +662,12 @@
                                                    </div>
                                                     <div class="speak-image-btm">
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/2.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/2.jpg')}}"alt="Images"></a>
                                                                 <span class="tooltiptext">Odette Annable</span>
                                                             </div>                                                   
                                                         </div>                                                    
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/4.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/4.jpg')}}"alt="Images"></a>
                                                                 <span class="tooltiptext">Dakota Fanning</span>
                                                             </div>                                                   
                                                         </div>                                                   
@@ -687,7 +687,7 @@
                                                     <div class="speak-image-btm">             
                                                         <div class="speak-image">
                                                             <a href="#">
-                                                                <img src="assets/images/tab/5.jpg" alt="Images">
+                                                                <img src="{{url('frontend/images/tab/5.jpg')}}" alt="Images">
                                                             </a>                                                         
                                                         </div>                                                
                                                     </div>
@@ -705,12 +705,12 @@
                                                    </div>
                                                     <div class="speak-image-btm">
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/7.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/7.jpg')}}" alt="Images"></a>
                                                                 <span class="tooltiptext">Angelina Jolie</span>
                                                             </div>                                                   
                                                         </div>                                                    
                                                         <div class="speak-image">
-                                                            <div class="tooltip"><a href="#"><img src="assets/images/tab/1.jpg" alt="Images"></a>
+                                                            <div class="tooltip"><a href="#"><img src="{{url('frontend/images/tab/1.jpg')}}" alt="Images"></a>
                                                                 <span class="tooltiptext">Allu Arjun</span>
                                                             </div>                                                   
                                                         </div>                                                    
@@ -860,7 +860,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/1.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/1.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -869,7 +869,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/2.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/2.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -878,7 +878,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/3.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/3.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -887,7 +887,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/4.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/4.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -896,7 +896,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/5.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/5.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -905,7 +905,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/6.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/6.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -914,7 +914,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/7.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/7.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -923,7 +923,7 @@
                             <div class="logo-item">
                                 <div class="grid-figure">
                                     <div class="logo-img">
-                                        <a href="#"><img src="assets/images/event/sponsor/8.png" alt="logo-img"></a>
+                                        <a href="#"><img src="{{url('frontend/images/event/sponsor/8.png')}}" alt="logo-img"></a>
                                     </div>
                                 </div>
                             </div>
@@ -932,7 +932,7 @@
                             <div class="btn-part text-center mt-60 md-mt-40">
                                 <a class="readon btn-text" href="sponsors-2.html">
                                     <span>Become a Sponsors</span>
-                                    <img src="assets/images/button.png" alt="">
+                                    <img src="{{url('frontend/images/button.png')}}" alt="">
                                 </a>
                             </div>
                         </div>
@@ -954,7 +954,7 @@
                     <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true">
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.html"><img src="assets/images/blog/1.jpg" alt="Blog"></a>
+                                <a href="blog-details.html"><img src="{{url('frontend//images/blog/1.jpg')}}" alt="Blog"></a>
                                 <div class="blog-date">
                                     <span class="day">05</span>
                                     <span class="month">May</span>
@@ -976,7 +976,7 @@
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.html"><img src="assets/images/blog/2.jpg" alt="Blog"></a>
+                                <a href="blog-details.html"><img src="{{url('frontend//images/blog/2.jpg')}}" alt="Blog"></a>
                                 <div class="blog-date">
                                     <span class="day">05</span>
                                     <span class="month">May</span>
@@ -998,7 +998,7 @@
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.html"><img src="assets/images/blog/3.jpg" alt="Blog"></a>
+                                <a href="blog-details.html"><img src="{{url('frontend//images/blog/3.jpg')}}" alt="Blog"></a>
                                 <div class="blog-date">
                                     <span class="day">05</span>
                                     <span class="month">May</span>
@@ -1020,7 +1020,7 @@
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.html"><img src="assets/images/blog/4.jpg" alt="Blog"></a>
+                                <a href="blog-details.html"><img src="{{url('frontend//images/blog/4.jpg')}}" alt="Blog"></a>
                                 <div class="blog-date">
                                     <span class="day">05</span>
                                     <span class="month">May</span>
@@ -1042,7 +1042,7 @@
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.html"><img src="assets/images/blog/5.jpg" alt="Blog"></a>
+                                <a href="blog-details.html"><img src="{{url('frontend//images/blog/5.jpg')}}" alt="Blog"></a>
                                 <div class="blog-date">
                                     <span class="day">05</span>
                                     <span class="month">May</span>
@@ -1064,7 +1064,7 @@
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.html"><img src="assets/images/blog/6.jpg" alt="Blog"></a>
+                                <a href="blog-details.html"><img src="{{url('frontend//images/blog/6.jpg')}}" alt="Blog"></a>
                                 <div class="blog-date">
                                     <span class="day">05</span>
                                     <span class="month">May</span>
@@ -1086,7 +1086,7 @@
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.html"><img src="assets/images/blog/1.jpg" alt="Blog"></a>
+                                <a href="blog-details.html"><img src="{{url('frontend//images/blog/1.jpg')}}" alt="Blog"></a>
                                 <div class="blog-date">
                                     <span class="day">05</span>
                                     <span class="month">May</span>
@@ -1309,74 +1309,7 @@
         </div> 
         <!-- Main content End -->
      
-        <!-- Footer Start -->
-        <footer id="rs-footer" class="rs-footer style1">
-            <div class="footer-top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
-                            <div class="footer-logo mb-40 md-mb-20">
-                                <a href="index.html"><img src="assets/images/logo-light2.png" alt=""></a>
-                            </div>
-                        </div>
-                        <div class="col-lg-8">
-                            <div class="row">
-                                <div class="col-lg-4 col-md-12 col-sm-12 pl-45 md-pl-15">
-                                    <h3 class="footer-title">Address</h3>
-                                    <div class="textwidget">2096 New Market, New<br> Road
-                                    North Carolina, USA</div>
-                                </div>
-                                <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10 pl-90 md-pl-15">
-                                    <h3 class="footer-title">Call Us</h3>
-                                    <div class="textwidget">
-                                        <a href="mailto:support@reactheme.com">support@reactheme.com</a><br>
-                                        <a href="tel:(+880)155-69569">(+880)155-69569</a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-md-12 col-sm-12 pl-115 md-pl-15">
-                                    <h3 class="footer-title">Follow Us</h3>
-                                    <ul class="footer-social">  
-                                        <li> 
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
-                                        </li>
-                                        <li> 
-                                            <a href="#"><i class="fa fa-twitter"></i></a> 
-                                        </li>
-
-                                        <li> 
-                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                        </li>
-
-                                        <li> 
-                                            <a href="#"><i class="fa fa-instagram"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <div class="container">                    
-                    <div class="row y-middle">
-                        <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
-                            <ul class="copy-right-menu">
-                                <li><a href="index2.html">Home2</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="schedule.html">Schedule</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="copyright text-lg-start text-center ">
-                                <p>© 2021 Evenio, All Rights Reserved. Developed By<a href="https://reactheme.com/"> reacthemes</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- Footer End -->
+      
 
         <!-- start scrollUp  -->
         <div id="scrollUp" class="orange-color">
@@ -1403,40 +1336,5 @@
                 </div>
             </div>
         </div>
-        <!-- Search Modal End -->
-
-        <!-- modernizr js -->
-        <script src="assets/js/modernizr-2.8.3.min.js"></script>
-        <!-- jquery latest version -->
-        <script src="assets/js/jquery.min.js"></script>
-        <!-- Bootstrap v4.4.1 js -->
-        <script src="assets/js/bootstrap.min.js"></script>
-        <!-- op nav js -->
-        <script src="assets/js/jquery.nav.js"></script>
-        <!-- isotope.pkgd.min js -->
-        <script src="assets/js/isotope.pkgd.min.js"></script>
-        <!-- owl.carousel js -->
-        <script src="assets/js/owl.carousel.min.js"></script>
-        <!-- wow js -->
-        <script src="assets/js/wow.min.js"></script>
-        <!-- Time Circle js -->
-        <script src="assets/js/time-circle.js"></script>
-        <!-- Skill bar js -->
-        <script src="assets/js/skill.bars.jquery.js"></script>
-        <!-- imagesloaded js -->
-        <script src="assets/js/imagesloaded.pkgd.min.js"></script>
-         <!-- waypoints.min js -->
-        <script src="assets/js/waypoints.min.js"></script>
-        <!-- counterup.min js -->
-        <script src="assets/js/jquery.counterup.min.js"></script> 
-        <!-- magnific popup js -->
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
-        <!-- contact form js -->
-        <script src="assets/js/contact.form.js"></script>
-        <!-- main js -->
-        <script src="assets/js/main.js"></script>
-    </body>
-
-<!-- Mirrored from keenitsolutions.com/products/html/evenio/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 20 Jul 2023 09:00:34 GMT -->
-</html>
+        
 @endsection
