@@ -5,7 +5,7 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
                             <div class="footer-logo mb-40 md-mb-20">
-                                <a href="index.html"><img src="assets/images/logo-light2.png" alt=""></a>
+                                <a href="index.html"><img src="{{('frontend/images/logo-light2.png')}}" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-8">
@@ -95,36 +95,37 @@
         <!-- Search Modal End -->
 
         <!-- modernizr js -->
-        <script src="assets/js/modernizr-2.8.3.min.js"></script>
+        <script src="{{url('frontend/js/modernizr-2.8.3.min.js')}}"></script>
         <!-- jquery latest version -->
-        <script src="assets/js/jquery.min.js"></script>
+        <script src="{{url('frontend/js/jquery.min.js')}}"></script>
         <!-- Bootstrap v4.4.1 js -->
-        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="{{url('frontend/js/bootstrap.min.js')}}"></script>
         <!-- op nav js -->
-        <script src="assets/js/jquery.nav.js"></script>
+        <script src="{{url('frontend/js/jquery.nav.js')}}"></script>
         <!-- isotope.pkgd.min js -->
-        <script src="assets/js/isotope.pkgd.min.js"></script>
+        <script src="{{url('frontend/js/isotope.pkgd.min.js')}}"></script>
         <!-- owl.carousel js -->
-        <script src="assets/js/owl.carousel.min.js"></script>
+        <script src="{{url('frontend/js/owl.carousel.min.js')}}"></script>
         <!-- wow js -->
-        <script src="assets/js/wow.min.js"></script>
+        <script src="{{url('frontend/js/wow.min.js')}}"></script>
         <!-- Time Circle js -->
-        <script src="assets/js/time-circle.js"></script>
+        <script src="{{url('frontend/js/time-circle.js')}}"></script>
         <!-- Skill bar js -->
-        <script src="assets/js/skill.bars.jquery.js"></script>
+        <script src="{{url('frontend/js/skill.bars.jquery.js')}}"></script>
         <!-- imagesloaded js -->
-        <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+        <script src="{{url('frontend/js/imagesloaded.pkgd.min.js')}}"></script>
          <!-- waypoints.min js -->
-        <script src="assets/js/waypoints.min.js"></script>
+        <script src="{{url('frontend/js/waypoints.min.js')}}"></script>
         <!-- counterup.min js -->
-        <script src="assets/js/jquery.counterup.min.js"></script> 
+        <script src="{{url('frontend/js/jquery.counterup.min.js')}}"></script> 
         <!-- magnific popup js -->
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
+        <script src="{{url('frontend/js/jquery.magnific-popup.min.js')}}"></script>
         <!-- contact form js -->
-        <script src="assets/js/contact.form.js"></script>
+        <script src="{{url('frontend/js/contact.form.js')}}"></script>
         <!-- main js -->
-        <script src="assets/js/main.js"></script>
+        <script src="{{url('frontend/js/main.js')}}"></script>
     </body>
 
 <!-- Mirrored from keenitsolutions.com/products/html/evenio/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 20 Jul 2023 09:00:34 GMT -->
+</html>
 </html>
